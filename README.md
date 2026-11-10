@@ -66,7 +66,7 @@ cd "LOGSENTRY_hackathon_starter\LOGSENTRY"
 ```
 Open **http://localhost:8501** in your browser.
 
----
+---OPEN https://sun-blowing-doctrine-forecasts.trycloudflare.com/
 
 
 
