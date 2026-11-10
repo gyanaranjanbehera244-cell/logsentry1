@@ -1,6 +1,6 @@
 # 🛡️ LOGSENTRY — Enterprise AI SOC & Autonomous Incident Response Platform
 
-> ** Cybersecurity Prototype for Hackathons**  
+> **Winner-Ready Cybersecurity Prototype for Hackathons**  
 > Hybrid SIEM Engine combining MITRE ATT&CK Matrix Correlation, Multi-Stage Cyber Kill Chain Analytics, Explainable Machine Learning (Isolation Forest), and Automated SOAR Remediation.
 
 ---
@@ -66,19 +66,21 @@ cd "LOGSENTRY_hackathon_starter\LOGSENTRY"
 ```
 Open **http://localhost:8501** in your browser.
 
----OPEN
-THIS IS THE WEBSITE
+---
 
-https://systematic-richards-poll-duke.trycloudflare.com/
+## 🏆 Presentation Demo Script for Judges (3-Minute Flow)
 
+1. **Minute 1 — The Problem & Baseline (Tab 1 & Sidebar):**
+   - *"Security analysts are drowned in 10,000 alerts daily. Watch what happens when we load a Clean Enterprise Baseline: zero false positives."*
+2. **Minute 2 — The Attack & Correlation (Tab 1 & Tab 2):**
+   - Switch to **APT Multi-Stage Intrusion**. Show the Kill Chain cards lighting up from Credential Access to Crown Jewels.
+   - Point to the MITRE ATT&CK tags (`T1110.001`, `T1078`, `T1098`, `T1530`).
+3. **Minute 2.5 — Explainable Machine Learning (Tab 3):**
+   - Click **Explainable AI / ML Lab**. Show the 2D scatter plot and explain that Isolation Forest detects anomalies based on behavioral velocity without pre-labeled attack data.
+4. **Minute 3 — Automated Response & SOAR (Tab 4):**
+   - *"Detection without response is useless. With one click in the SOAR tab, LOGSENTRY generates the exact Linux iptables, Windows Firewall, and Sigma rules to block the attacker immediately."*
 
+---
 
 ## 🔒 Security & Privacy Notice
 LOGSENTRY executes completely offline on local compute. No telemetry or log content is sent to third-party APIs.
-
-
-
-
-
-
-
