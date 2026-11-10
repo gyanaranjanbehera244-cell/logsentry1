@@ -1,6 +1,6 @@
 # 🛡️ LOGSENTRY — Enterprise AI SOC & Autonomous Incident Response Platform
 
-> **Winner-Ready Cybersecurity Prototype for Hackathons**  
+> ** Cybersecurity Prototype for Hackathons**  
 > Hybrid SIEM Engine combining MITRE ATT&CK Matrix Correlation, Multi-Stage Cyber Kill Chain Analytics, Explainable Machine Learning (Isolation Forest), and Automated SOAR Remediation.
 
 ---
