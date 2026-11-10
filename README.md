@@ -68,19 +68,19 @@ Open **http://localhost:8501** in your browser.
 
 ---
 
-## 🏆 Presentation Demo Script for Judges (3-Minute Flow)
+## 🏆 Presentation 
 
-1. **Minute 1 — The Problem & Baseline (Tab 1 & Sidebar):**
+1. ** — The Problem & Baseline (Tab 1 & Sidebar):**
    - *"Security analysts are drowned in 10,000 alerts daily. Watch what happens when we load a Clean Enterprise Baseline: zero false positives."*
-2. **Minute 2 — The Attack & Correlation (Tab 1 & Tab 2):**
+2. ** — The Attack & Correlation (Tab 1 & Tab 2):**
    - Switch to **APT Multi-Stage Intrusion**. Show the Kill Chain cards lighting up from Credential Access to Crown Jewels.
    - Point to the MITRE ATT&CK tags (`T1110.001`, `T1078`, `T1098`, `T1530`).
-3. **Minute 2.5 — Explainable Machine Learning (Tab 3):**
+3. **— Explainable Machine Learning (Tab 3):**
    - Click **Explainable AI / ML Lab**. Show the 2D scatter plot and explain that Isolation Forest detects anomalies based on behavioral velocity without pre-labeled attack data.
-4. **Minute 3 — Automated Response & SOAR (Tab 4):**
+4. *— Automated Response & SOAR (Tab 4):**
    - *"Detection without response is useless. With one click in the SOAR tab, LOGSENTRY generates the exact Linux iptables, Windows Firewall, and Sigma rules to block the attacker immediately."*
 
 ---
-
+https://logsentry1-he7apprvybojv84kyib2zog.streamlit.app/
 ## 🔒 Security & Privacy Notice
 LOGSENTRY executes completely offline on local compute. No telemetry or log content is sent to third-party APIs.
